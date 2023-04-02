@@ -1,0 +1,43 @@
+.contact {
+    width: 100%;
+    height: 100%;
+    background-image: url('Background/Hu-tao.png');
+    background-position: center;
+    background-size: cover;
+}
+
+.contact h1{
+    position: relative;
+    font-size: 100px;
+    left: auto;
+}
+.contact .login{
+    
+    width: 100%;
+    height: auto;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+/*
+.about .wrapper{
+    width: 100%;
+    height: auto;
+    position: relative;
+    text-align: left;
+}
+
+.about .wrapper h1{
+    font-size: 100px;
+    font-weight: 500;
+    position: relative;
+    left: 50px;
+    bottom: auto;
+    color: #e72727;
+}
